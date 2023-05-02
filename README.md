@@ -1,20 +1,15 @@
-# fartscroll.js
+# pipescroll.js
 
-Everyone farts. And now your web pages can too.
-
-_Now with 100% less jQuery! (Sorry, jQuery, we still love you)_
-
+Everyone falls. And now your pipes can too.
 ### Setup:
 
-1. Include "fartscroll.js" in your page. (You can use the latest from our CDN: [//code.onion.com/fartscroll.js](http://code.onion.com/fartscroll.js))
-2. Initialize the fartscroll plugin once the DOM has loaded:
+1. Include "pipescroll.js" in your page.
+2. Initialize the pipescroll plugin once the DOM has loaded:
 
 ```javascript
-// Fart every 400 pixels scrolled
-fartscroll(); 
+// Metal pipe every 400 pixels scrolled
+pipescroll(); 
 
-// Fart every 800 pixels scrolled
-fartscroll(800);
+// Metal pipe every 800 pixels scrolled
+pipescroll(800);
 ```
-    
-More info at [http://theonion.github.io/fartscroll.js/](http://theonion.github.io/fartscroll.js/).
