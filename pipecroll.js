@@ -1,7 +1,7 @@
 // fartscroll.js v0.1
 "use strict";
 
-var fartscroll = (function () {
+var pipescroll = (function () {
   var ogg = {
     prefix: "data:audio/ogg;base64,",
     sound: [
